@@ -51,3 +51,7 @@ Collapse
 checking if it's running
 
 
+## 5. Branching 
+-  `git branch branch name´
+- `git checkout branch_name´
+- `git branch -l´
